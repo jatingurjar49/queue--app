@@ -17,3 +17,5 @@ This is a **three-sided marketplace** application designed to solve the problem 
 ## 🚧 Current Status
 **Phase:** Research & Design / Documentation.
 I have recently uploaded the project **PPT**. Development is currently in progress.
+## 🔗 Interactive Prototype
+You can view the prototype here: https://wait-less-4.preview.emergentagent.com/login
